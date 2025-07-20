@@ -1,5 +1,5 @@
- 💫 About Me:
-I’m into building cool stuff with AI agents and learning how to make LLMs work smarter. Currently exploring AutoGen, ML, and agent workflows. Always up for open-source collabs and fun AI chats!
+
+### I’m into building cool stuff with AI agents and learning how to make LLMs work smarter. Currently exploring AutoGen, ML, and agent workflows. Always up for open-source collabs and fun AI chats!
 
 
 ## 📬 Contact Me  
