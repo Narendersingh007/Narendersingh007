@@ -55,7 +55,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Narendersingh007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narendersingh007&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
