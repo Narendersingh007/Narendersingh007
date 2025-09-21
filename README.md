@@ -1,7 +1,5 @@
-### 🚀 I’m into building cool stuff with AI agents and learning how to make LLMs work smarter.  
-Currently exploring **AutoGen, Machine Learning, and Agent Workflows**. Always up for open‑source collabs and fun AI chats!  
-
----
+## 🚀  Passionate About Deep Learning & AI Agents  
+Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on a quest to make them **think, reason, and collaborate smarter**.   Always excited for **open‑source collabs, creative AI workflows, and hands‑on experiments** pushing the boundaries of Deep Learning.
 
 ## 📬 Contact Me  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh14032004@gmail.com)
