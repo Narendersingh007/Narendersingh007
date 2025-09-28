@@ -69,10 +69,4 @@ Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on 
 
 ---
 
-# 💡 Random Dev Quote  
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Narendersingh007&icon=0&color=0)](https://visitcount.itsvg.in)
