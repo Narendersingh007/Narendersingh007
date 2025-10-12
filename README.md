@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=650&lines=👋+Hey%2C+I'm+Narender+Singh;⚡+Let's+Build!)](https://git.io/typing-svg)
 ## 🚀  Passionate About Deep Learning & AI Agents  
 Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on a quest to make them **think, reason, and collaborate smarter**.   Always excited for **open‑source collabs, creative AI workflows, and hands‑on experiments** pushing the boundaries of Deep Learning.
+
+
 
 ## 📬 Contact Me  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh14032004@gmail.com)
