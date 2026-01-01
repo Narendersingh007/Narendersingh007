@@ -48,6 +48,16 @@ Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 
+### 🧠 GenAI Stack
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-orange?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-green?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-grey?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-blueviolet?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Output-red?style=for-the-badge)
+
 ### 🔹 Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
