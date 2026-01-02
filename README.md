@@ -70,13 +70,6 @@ Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on 
 ![Google Colab](https://img.shields.io/badge/GoogleColab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
 ---
-# 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=Narendersingh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Narendersingh007&theme=gotham&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narendersingh007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
 
 # 🌌 Contribution Graph  
 [![Narender Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narendersingh007&bg_color=000000&color=aaaaaa&line=666666&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
