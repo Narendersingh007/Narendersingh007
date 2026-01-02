@@ -69,9 +69,6 @@ Exploring **Neural Networks, AutoGen, and Large Language Models (LLMs)** — on 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/GoogleColab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
-### 🔹 Design & Tools  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
 ---
 # 📊 GitHub Stats  
 
